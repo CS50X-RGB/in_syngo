@@ -31,6 +31,7 @@ If you Flutter installed in your system run:
 ```
   flutter run
 ```
+<h1>To load all the dependencies after cloning the project</h1>
 ```
   flutter pub get
 ```
