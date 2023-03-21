@@ -31,5 +31,8 @@ If you Flutter installed in your system run:
 ```
   flutter run
 ```
+```
+  flutter pub get
+```
 <p>If you havenot installed</p>
 <a href="https://docs.flutter.dev/get-started/install">GO here</a>
